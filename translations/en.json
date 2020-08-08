@@ -1,10 +1,4 @@
 {
-"help": [
-    "Line1",
-    "line2"
-],
-"info":[
-    "Line1",
-    "line2"
-]
+"help_1":"Help 1",
+"help_2":"Help 2"
 }
