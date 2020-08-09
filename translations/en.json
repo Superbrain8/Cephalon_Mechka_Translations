@@ -1,7 +1,13 @@
 {
     "en":
     {
-"help_1":"Help 1",
-"help_2":"Help 2"
+"arbi_name":"arbi",
+"arbi_category":"Warframe",
+"arbi_description":"Get the Current Arbitrations",
+"arbi_usage":"arbi",
+"baguette_name":"baguette",
+"baguette_category":"fun",
+"baguette_description":"get a random French Phrase",
+"baguette_usage":"baguette"
     }
 }
