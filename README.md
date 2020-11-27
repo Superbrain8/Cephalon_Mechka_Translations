@@ -30,5 +30,7 @@ edit the lang.json to meet following requirements
     }
 }
 ```
+Above codeblock is an example. edit the current state of the lang.json, in the future it will contain more values than this example
+
 if done open a Pull request. if merged to the Repo the bot will load the new language after the next Restart. (will be done by me manually)
   
