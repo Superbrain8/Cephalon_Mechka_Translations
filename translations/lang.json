@@ -39,6 +39,168 @@
       },
       "BARO_CHECK": {
         "english": "Last time checked:"
+      },
+      "INFO_NAME": {
+        "english": "Bot Name:"
+      },
+      "INFO_CREATOR": {
+        "english": "Bot Creator:"
+      },
+      "INFO_CREATION_DATE": {
+        "english": "Created at:"
+      },
+      "INFO_GUILDCOUNT": {
+        "english": "Guild Count:"
+      },
+      "INFO_NODE_VERSION": {
+        "english": "Node Version:"
+      },
+      "INFO_DJS_VERSION": {
+        "english": "Discord.js Version:"
+      },
+      "INFO_UPTIME": {
+        "english": "Uptime:"
+      },
+      "INFO_RAM": {
+        "english": "Ram Usage:"
+      },
+      "INFO_CPU": {
+        "english": "CPU Usage:"
+      },
+      "DARVO_START": {
+        "english": "Deals Starts:"
+      },
+      "DARVO_ENDS": {
+        "english": "Deals End:"
+      },
+      "DARVO_ITEM": {
+        "english": "Item:"
+      },
+      "DARVO_ORIGINAL": {
+        "english": "Original Price:"
+      },
+      "DARVO_DISCOUNT": {
+        "english": "Discount Price:"
+      },
+      "DARVO_AVIABLE": {
+        "english": "Total Aviable:"
+      },
+      "DARVO_SOLD": {
+        "english": "Sold:"
+      },
+      "DARVO_DISCOUNT_PERCENTAGE": {
+        "english": "DISCOUNT:"
+      },
+      "DARVO_CHECK": {
+        "english": "Last time checked:"
+      },
+      "DISCORD": {
+        "english": "Here is the Invation URL"
+      },
+      "WEAPON": {
+        "english": "Please define a weapon"
+      },
+      "DISPO": {
+        "english": "Riven Disposition"
+      },
+      "EHP_LEGACY": {
+        "english": "There was no Pretab Found and no Legacy values given."
+      },
+      "EHP_LEVEL": {
+        "english": "Please define a level between 80 and 10000."
+      },
+      "EHP_HEALTH": {
+        "english": "Please define health."
+      },
+      "EHP_ARMOR": {
+        "english": "Please define armor."
+      },
+      "EHP_NAME": {
+        "english": "EHP for:"
+      },
+      "EHP_NAME_LEVEL": {
+        "english": "Level:"
+      },
+      "EHP_NAME_HEALTH": {
+        "english": "Health:"
+      },
+      "EHP_NAME_ARMOR": {
+        "english": "Armor:"
+      },
+      "EHP_NAME_SHIELDS": {
+        "english": "Shields:"
+      },
+      "EHP_NAME_EHP": {
+        "english": "EHP:"
+      },
+      "EHP_NAME_EHP_SHIELDS": {
+        "english": "EHP with Shields:"
+      },
+      "GLYPH": {
+        "english": "No Glyph Code Found for this Guild"
+      },
+      "HELP_ADDITIONAL_TITLE": {
+        "english": "Additional Informations"
+      },
+      "HELP_ADDITIONAL": {
+        "english": "Running help [command] gives additional Informations for the Command Usage."
+      },
+      "HELP_COMMANDS_LIST": {
+        "english": "Commands List"
+      },
+      "HELP_TOTAL": {
+        "english": "Total Commands"
+      },
+      "HELP_ERROR": {
+        "english": "Cant find this command, sorry!"
+      },
+      "HELP_HELP": {
+        "english": "Command help for"
+      },
+      "HELP_USAGE": {
+        "english": "Usage"
+      },
+      "INVITE_1": {
+        "english": "ive sent you a DM with the link"
+      },
+      "INVITE_2": {
+        "english": "here is the Invite Link"
+      },
+      "NO_PERMISSION_SENDMESSAGE": {
+        "english": "No Permissions to send Messages"
+      },
+      "NO_PERMISSION_MANAGEMESSAGES": {
+        "english": "No Permissions to Manage Messages"
+      },
+      "ABORT": {
+        "english": "user not responded, Aborting"
+      },
+      "LFG_PLATFORM": {
+        "english": "Please tell me the platform you play on."
+      },
+      "LFG_MISSION": {
+        "english": "Please tell me the Mission/Activity you want to start."
+      },
+      "LFG_WARFRAME": {
+        "english": "Did you want certain Warframes in your team?"
+      },
+      "LFG_ERROR": {
+        "english": "LFG Not Setup"
+      },
+      "LFG_NAME": {
+        "english": "Looking for Group"
+      },
+      "LFG_NAME_PLATFORM": {
+        "english": "Platform"
+      },
+      "LFG_NAME_MISSION": {
+        "english": "Mission"
+      },
+      "LFG_NAME_WARFRAME": {
+        "english": "looking for Frame(s)"
+      },
+      "LFG": {
+        "english": "is Looking for a Group."
       }
     }
 }
