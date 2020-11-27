@@ -1,6 +1,9 @@
 {
     "languages": ["english"],
     "translations": {
+      "ERROR": {
+        "english": "an Error occured please try again."
+      },
       "ARBI_START": {
         "english": "Arbitrations Starts:"
       },
