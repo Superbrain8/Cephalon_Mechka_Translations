@@ -3,6 +3,7 @@ Translations for the Discord Bot Cephalon Mechka
 
 How to add a Translation:
 edit the lang.json to meet following requirements
+```json
 {
     "languages": ["english","Your Language"],
     "translations": {
@@ -23,11 +24,11 @@ edit the lang.json to meet following requirements
         "Your Language": "Mode:(in your language)"
       },
       "ARBI_CHECK": {
-        "english": "Last time checked:"
+        "english": "Last time checked:",
         "Your Language": "Last time checked:(in your language)"
       }
     }
 }
-
+```
 if done open a Pull request. if merged to the Repo the bot will load the new language after the next Restart. (will be done by me manually)
   
