@@ -4,6 +4,15 @@
       "ERROR": {
         "english": "an Error occured please try again."
       },
+      "NO_RESULT": {
+        "english": "No results for that query. Please refine your search."
+      },
+      "NO_PLATFORM": {
+        "english": "You need to supply a Platform!"
+      },
+      "PLATFORM": {
+        "english": "Please use pc | swi | ps4 | xb1 as platform."
+      },
       "ARBI_START": {
         "english": "Arbitrations Starts:"
       },
@@ -15,7 +24,22 @@
       },
       "ARBI_CHECK": {
         "english": "Last time checked:"
+      },
+      "BARO_START": {
+        "english": "Trader Arrives:"
+      },
+      "BARO_ENDS": {
+        "english": "Trader Leaves:"
+      },
+      "BARO_LOCATION": {
+        "english": "Trader Location:"
+      },
+      "BARO_TIME": {
+        "english": "Time Left:"
+      },
+      "BARO_CHECK": {
+        "english": "Last time checked:"
       }
     }
-  }
+}
   
