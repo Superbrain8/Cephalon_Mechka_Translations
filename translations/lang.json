@@ -1,9 +1,17 @@
 {
-    "languages": ["english", "spanish"],
+    "languages": ["english"],
     "translations": {
-      "THE_SUM_IS": {
-        "english": "The sum is",
-        "spanish": "La suma es"
+      "ARBI_START": {
+        "english": "Arbitrations Starts:"
+      },
+      "ARBI_ENDS": {
+        "english": "Arbitrations Ends:"
+      },
+      "ARBI_MODE": {
+        "english": "Mode:"
+      },
+      "ARBI_CHECK": {
+        "english": "Last time checked:"
       }
     }
   }
