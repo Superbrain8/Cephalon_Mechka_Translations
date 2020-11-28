@@ -173,7 +173,7 @@
         "english": "No Permissions to Manage Messages"
       },
       "ABORT": {
-        "english": "user not responded, Aborting"
+        "english": "User not responded, Aborting."
       },
       "LFG_PLATFORM": {
         "english": "Please tell me the platform you play on."
@@ -185,22 +185,34 @@
         "english": "Did you want certain Warframes in your team?"
       },
       "LFG_ERROR": {
-        "english": "LFG Not Setup"
+        "english": "LFG Not Setup!"
       },
       "LFG_NAME": {
         "english": "Looking for Group"
       },
       "LFG_NAME_PLATFORM": {
-        "english": "Platform"
+        "english": "Platform:"
       },
       "LFG_NAME_MISSION": {
-        "english": "Mission"
+        "english": "Mission:"
       },
       "LFG_NAME_WARFRAME": {
-        "english": "looking for Frame(s)"
+        "english": "looking for Frame(s):"
       },
       "LFG": {
         "english": "is Looking for a Group."
+      },
+      "MEME_MAX": {
+        "english": "Currently you can have ${allowedvotes} Memes at once."
+      },
+      "MEME_MAX_ALLOWED": {
+        "english": "Currently you cant have more than ${allowedvotes} Memes at once. Vote for the Bot for Increasing it. You can vote with ${client.config.prefix}vote."
+      },
+      "MEME_LIMIT": {
+        "english": "This server limited the maximum amount of memes to ${d.meme_max}."
+      },
+      "MEME_ERROR": {
+        "english": "sorry but it seems like we're out of memes."
       }
     }
 }
