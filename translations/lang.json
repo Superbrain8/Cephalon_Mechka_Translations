@@ -255,6 +255,33 @@
       },
       "PRIVACY_NO_DATA": {
         "english": "No Data Stored."
+      },
+      "RIVEN_USAGE": {
+        "english": "Command Usage [Platform] [Weapon]!"
+      },
+      "RIVEN_NO_DATA": {
+        "english": "No Dataset Found."
+      },
+      "RIVEN_TYPE": {
+        "english": "Weapontype:"
+      },
+      "RIVEN_ROLLED": {
+        "english": "Rolled Riven:"
+      },
+      "RIVEN_UNROLLED": {
+        "english": "Unrolled Riven:"
+      },
+      "RIVEN_AVERAGE": {
+        "english": "Average:"
+      },
+      "RIVEN_MIN": {
+        "english": "MIN:"
+      },
+      "RIVEN_MAX": {
+        "english": "MAX:"
+      },
+      "RIVEN_EMPTY": {
+        "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!"
       }
     }
 }
