@@ -282,6 +282,72 @@
       },
       "RIVEN_EMPTY": {
         "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!"
+      },
+      "SENTIENT_UNAVIABLE": {
+        "english": "Unaviable"
+      },
+      "SENTIENT_TITLE": {
+        "english": "Sentient Outpost"
+      },
+      "SENTIENT_START": {
+        "english": "Outpost Starts:"
+      },
+      "SENTIENT_END": {
+        "english": "Outpost End:"
+      },
+      "SENTIENT_NODE": {
+        "english": "Mission Node:"
+      },
+      "SENTIENT_FACTION": {
+        "english": "Faction:"
+      },
+      "SENTIENT_STATUS": {
+        "english": "Active:"
+      },
+      "SENTIENT_DESCRIPTION": {
+        "english": "[BETA] Estimated cycle is 30 minutes of active time and 3 hours of inactive time."
+      },
+      "SENTIENT_CHECK": {
+        "english": "Last time checked:"
+      },
+      "STATS_TITLE": {
+        "english": "Riven Stat list"
+      },
+      "STATS_FOOTER": {
+        "english": "Command will only show the first 25 Results."
+      },
+      "STATS_DESCRIPTION": {
+        "english": "Here is a selection of Riven stats that are worth getting."
+      },
+      "STATS_POSITIVES": {
+        "english": "Positives:"
+      },
+      "STATS_NEGATIVES": {
+        "english": "Negatives:"
+      },
+      "STATS_EMPTY": {
+        "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!"
+      },
+      "WHERE_PROCESSING": {
+        "english": "Processing search..."
+      },
+      "WHERE_TOLONG": {
+        "english": "Querystring to long"
+      },
+      "WHERE_ERROR": {
+        "english": "This is either due to the item being vaulted or an invalid search. Sorry."
+      },
+      "WHERE_PLACE": {
+        "english": "Place:"
+      },
+      "WHERE_RARITY": {
+        "english": "Rarity:"
+      },
+      "WHERE_DROP": {
+        "english": "Dropchance:"
+      },
+      "WHERE_PAGE": {
+        "english": "Page"
       }
     }
 }
