@@ -213,6 +213,48 @@
       },
       "MEME_ERROR": {
         "english": "sorry but it seems like we're out of memes."
+      },
+      "PRICE_PLATFORM": {
+        "english": "Please use PC | PS4 | XB1 as platform. \nSwitch is currently not Supported by the API."
+      },
+      "PRICE_SELLING": {
+        "english": "Selling Orders:"
+      },
+      "PRICE_MIN": {
+        "english": "Min Price:"
+      },
+      "PRICE_MAX": {
+        "english": "Max Price:"
+      },
+      "PRICE_MEDIAN": {
+        "english": "Median Price:"
+      },
+      "PRIVACY_TITLE": {
+        "english": "Privacy Policy"
+      },
+      "PRIVACY_STORAGE_TITLE": {
+        "english": "Data Storage"
+      },
+      "PRIVACY_STORAGE": {
+        "english": "The Bot Stores the GuildID of every Guild the Bot is used. Additional the Bot stores the Userid for every user that voted at Top.gg and if the User is a Patreon on S8Software."
+      },
+      "PRIVACY_USAGE_TITLE": {
+        "english": "Data Usage"
+      },
+      "PRIVACY_USAGE": {
+        "english": "The GuildID is needed for identifying the Configuration File for the given Guild.\nThe Userid is used for Identifying the Current Vote Count for the Bot -> Required for the Vote Reward\nThe Patreon Value is Deprecated and no longer in use."
+      },
+      "PRIVACY_STORED_TITLE": {
+        "english": "Stored Data for"
+      },
+      "PRIVACY_STORED": {
+        "english": "UserID ${userdata.userID}\nVotes: ${userdata.votes}\nPatreon Status: ${userdata.patreon}"
+      },
+      "PRIVACY_DM": {
+        "english": "I send you a DM with the Policy."
+      },
+      "PRIVACY_NO_DATA": {
+        "english": "No Data Stored."
       }
     }
 }
