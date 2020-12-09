@@ -2,7 +2,9 @@
 Translations for the Discord Bot Cephalon Mechka
 
 How to add a Translation:
-\nmake a Fork of the Repo\n
+
+make a Fork of the Repo
+
 edit the lang.json to meet following requirements
 ```json
 {
