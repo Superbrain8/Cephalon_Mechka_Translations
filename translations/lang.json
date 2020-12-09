@@ -3,35 +3,43 @@
     "translations": {
       "ERROR": {
         "english": "an Error occured, please try again.",
-        "german": "ein fehler ist aufgetreten, bitte versuche es erneut."
+        "german": "ein fehler ist aufgetreten, bitte versuche es erneut.",
+        "french": "une erreur est survenue, veuillez réessayer."
       },
       "NO_RESULT": {
         "english": "No results for that query. Please refine your search.",
-        "german": "Keine Ergebnisse für diese Abfrage. Bitte verfeinern Sie Ihre Suche."
+        "german": "Keine Ergebnisse für diese Abfrage. Bitte verfeinern Sie Ihre Suche.",
+        "french": "Aucun résultat pour cette requête. Veuillez reformuler votre recherche."
       },
       "NO_PLATFORM": {
         "english": "You need to supply a Platform!",
-        "german": "Bitte benutzte eine Platform."
+        "german": "Bitte benutzte eine Platform.",
+        "french": "Vous devez citer une plateforme."
       },
       "PLATFORM": {
         "english": "Please use pc | swi | ps4 | xb1 as platform.",
-        "german": "Bitte benutzte pc | swi | ps4 | xb1 als Platform."
+        "german": "Bitte benutzte pc | swi | ps4 | xb1 als Platform.",
+        "french": "Veuillez utilisez pc | swi | ps4 | xb1 comme plateforme."
       },
       "ARBI_START": {
         "english": "Arbitrations Starts:",
-        "german": "Arbitrations Startet:"
+        "german": "Arbitrations Startet:",
+        "french": "Debut de l'Arbitrage:"
       },
       "ARBI_ENDS": {
         "english": "Arbitrations Ends:",
-        "german": "Arbitrations Ended:"
+        "german": "Arbitrations Ended:",
+        "french": "Fin de l'Arbitrage!"
       },
       "ARBI_MODE": {
         "english": "Mode:",
-        "german": "Modus:"
+        "german": "Modus:",
+        "french": "Mode:"
       },
       "ARBI_CHECK": {
         "english": "Last time checked:",
-        "german": "Zuletzt überprüft:"
+        "german": "Zuletzt überprüft:",
+        "french": "Dernière vérification:"
       },
       "BARO_START": {
         "english": "Trader Arrives:",
