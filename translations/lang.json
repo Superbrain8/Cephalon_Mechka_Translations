@@ -1,5 +1,5 @@
 {
-    "languages": ["english","german"],
+    "languages": ["english","german","french"],
     "translations": {
       "ERROR": {
         "english": "an Error occured, please try again.",
