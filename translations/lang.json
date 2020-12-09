@@ -1,353 +1,469 @@
 {
-    "languages": ["english"],
+    "languages": ["english","german"],
     "translations": {
       "ERROR": {
-        "english": "an Error occured please try again."
+        "english": "an Error occured, please try again.",
+        "german": "ein fehler ist aufgetreten, bitte versuche es erneut."
       },
       "NO_RESULT": {
-        "english": "No results for that query. Please refine your search."
+        "english": "No results for that query. Please refine your search.",
+        "german": "Keine Ergebnisse für diese Abfrage. Bitte verfeinern Sie Ihre Suche."
       },
       "NO_PLATFORM": {
-        "english": "You need to supply a Platform!"
+        "english": "You need to supply a Platform!",
+        "german": "Bitte benutzte eine Platform."
       },
       "PLATFORM": {
-        "english": "Please use pc | swi | ps4 | xb1 as platform."
+        "english": "Please use pc | swi | ps4 | xb1 as platform.",
+        "german": "Bitte benutzte pc | swi | ps4 | xb1 als Platform."
       },
       "ARBI_START": {
-        "english": "Arbitrations Starts:"
+        "english": "Arbitrations Starts:",
+        "german": "Arbitrations Startet:"
       },
       "ARBI_ENDS": {
-        "english": "Arbitrations Ends:"
+        "english": "Arbitrations Ends:",
+        "german": "Arbitrations Ended:"
       },
       "ARBI_MODE": {
-        "english": "Mode:"
+        "english": "Mode:",
+        "german": "Modus:"
       },
       "ARBI_CHECK": {
-        "english": "Last time checked:"
+        "english": "Last time checked:",
+        "german": "Zuletzt überprüft:"
       },
       "BARO_START": {
-        "english": "Trader Arrives:"
+        "english": "Trader Arrives:",
+        "german": "Händler kommt an:"
       },
       "BARO_ENDS": {
-        "english": "Trader Leaves:"
+        "english": "Trader Leaves:",
+        "german": "Händler verschwinded:"
       },
       "BARO_LOCATION": {
-        "english": "Trader Location:"
+        "english": "Trader Location:",
+        "german": "Händler Position:"
       },
       "BARO_TIME": {
-        "english": "Time Left:"
+        "english": "Time Left:",
+        "german": "Übrige Zeit:"
       },
       "BARO_CHECK": {
-        "english": "Last time checked:"
+        "english": "Last time checked:",
+        "german": "Zuletzt überprüft:"
       },
       "INFO_NAME": {
-        "english": "Bot Name:"
+        "english": "Bot Name:",
+        "german": "Bot Name:"
       },
       "INFO_CREATOR": {
-        "english": "Bot Creator:"
+        "english": "Bot Creator:",
+        "german": "Bot Ersteller:"
       },
       "INFO_CREATION_DATE": {
-        "english": "Created at:"
+        "english": "Created at:",
+        "german": "Erstellt:"
       },
       "INFO_GUILDCOUNT": {
-        "english": "Guild Count:"
+        "english": "Server Count:",
+        "german": "Server Anzahl:"
       },
       "INFO_NODE_VERSION": {
-        "english": "Node Version:"
+        "english": "Node Version:",
+        "german": "Node Version:"
       },
       "INFO_DJS_VERSION": {
-        "english": "Discord.js Version:"
+        "english": "Discord.js Version:",
+        "german": "Discord.js Version:"
       },
       "INFO_UPTIME": {
-        "english": "Uptime:"
+        "english": "Uptime:",
+        "german": "Betriebszeit:"
       },
       "INFO_RAM": {
-        "english": "Ram Usage:"
+        "english": "Ram Usage:",
+        "german": "Ram Nutzung:"
       },
       "INFO_CPU": {
-        "english": "CPU Usage:"
+        "english": "CPU Usage:",
+        "german": "CPU Nutzung:"
       },
       "DARVO_START": {
-        "english": "Deals Starts:"
+        "english": "Deals Starts:",
+        "german": "Deals Startet:"
       },
       "DARVO_ENDS": {
-        "english": "Deals End:"
+        "english": "Deals End:",
+        "german": "Deals Ended:"
       },
       "DARVO_ITEM": {
-        "english": "Item:"
+        "english": "Item:",
+        "german": "Item:"
       },
       "DARVO_ORIGINAL": {
-        "english": "Original Price:"
+        "english": "Original Price:",
+        "german": "Original Preis:"
       },
       "DARVO_DISCOUNT": {
-        "english": "Discount Price:"
+        "english": "Discount Price:",
+        "german": "Reduzierter Preis:"
       },
       "DARVO_AVIABLE": {
-        "english": "Total Aviable:"
+        "english": "Total Aviable:",
+        "german": "Insgesamt verfügbar:"
       },
       "DARVO_SOLD": {
-        "english": "Sold:"
+        "english": "Sold:",
+        "german": "Verkauft:"
       },
       "DARVO_DISCOUNT_PERCENTAGE": {
-        "english": "DISCOUNT:"
+        "english": "DISCOUNT:",
+        "german": "Rabatt:"
       },
       "DARVO_CHECK": {
-        "english": "Last time checked:"
+        "english": "Last time checked:",
+        "german": "Zuletzt überprüft:"
       },
       "DISCORD": {
-        "english": "Here is the Invation URL"
+        "english": "Here is the Invation URL",
+        "german": "Hier ist die Einladungs-URL"
       },
       "WEAPON": {
-        "english": "Please define a weapon"
+        "english": "Please define a weapon",
+        "german": "Bitte definieren Sie eine Waffe"
       },
       "DISPO": {
-        "english": "Riven Disposition"
+        "english": "Riven Disposition",
+        "german": "Riven Disposition"
       },
       "EHP_LEGACY": {
-        "english": "There was no Pretab Found and no Legacy values given."
+        "english": "There was no Pretab Found and no Legacy values given.",
+        "german": "Es wurde kein Pretab gefunden und keine Legacy-Werte angegeben."
       },
       "EHP_LEVEL": {
-        "english": "Please define a level between 80 and 10000."
+        "english": "Please define a level between 80 and 10000.",
+        "german": "Bitte definieren Sie ein Level zwischen 80 und 10000."
       },
       "EHP_HEALTH": {
-        "english": "Please define health."
+        "english": "Please define health.",
+        "german": "Bitte definieren Sie Gesundheit."
       },
       "EHP_ARMOR": {
-        "english": "Please define armor."
+        "english": "Please define armor.",
+        "german": "Bitte definieren Sie die Rüstung."
       },
       "EHP_NAME": {
-        "english": "EHP for:"
+        "english": "EHP for:",
+        "german": "EHP für:"
       },
       "EHP_NAME_LEVEL": {
-        "english": "Level:"
+        "english": "Level:",
+        "german": "Level:"
       },
       "EHP_NAME_HEALTH": {
-        "english": "Health:"
+        "english": "Health:",
+        "german": "Gesundheit:"
       },
       "EHP_NAME_ARMOR": {
-        "english": "Armor:"
+        "english": "Armor:",
+        "german": "Rüstung:"
       },
       "EHP_NAME_SHIELDS": {
-        "english": "Shields:"
+        "english": "Shields:",
+        "german": "Schilde:"
       },
       "EHP_NAME_EHP": {
-        "english": "EHP:"
+        "english": "EHP:",
+        "german": "EHP:"
       },
       "EHP_NAME_EHP_SHIELDS": {
-        "english": "EHP with Shields:"
+        "english": "EHP with Shields:",
+        "german": "EHP mit Schilden:"
       },
       "GLYPH": {
-        "english": "No Glyph Code Found for this Guild"
+        "english": "No Glyph Code Found for this Guild",
+        "german": "Für diese Gilde wurde kein Glyphencode gefunden"
       },
       "HELP_ADDITIONAL_TITLE": {
-        "english": "Additional Informations"
+        "english": "Additional Informations",
+        "german": "zusätzliche Information"
       },
       "HELP_ADDITIONAL": {
-        "english": "Running help [command] gives additional Informations for the Command Usage."
+        "english": "Running help [command] gives additional Informations for the Command Usage.",
+        "german": "Wenn Sie help [Befehl] ausführen, erhalten Sie zusätzliche Informationen zur Befehlsverwendung."
       },
       "HELP_COMMANDS_LIST": {
-        "english": "Commands List"
+        "english": "Commands List",
+        "german": "Befehlsliste"
       },
       "HELP_TOTAL": {
-        "english": "Total Commands"
+        "english": "Total Commands",
+        "german": "Befehle insgesamt"
       },
       "HELP_ERROR": {
-        "english": "Cant find this command, sorry!"
+        "english": "Cant find this command, sorry!",
+        "german": "Ich kann diesen Befehl nicht finden, sorry!"
       },
       "HELP_HELP": {
-        "english": "Command help for"
+        "english": "Command help for",
+        "german": "Befehlshilfe für"
       },
       "HELP_USAGE": {
-        "english": "Usage"
+        "english": "Usage",
+        "german": "Verwendung"
       },
       "INVITE_1": {
-        "english": "ive sent you a DM with the link"
+        "english": "ive sent you a DM with the link",
+        "german": "Ich habe dir eine DM mit dem Link geschickt"
       },
       "INVITE_2": {
-        "english": "here is the Invite Link"
+        "english": "here is the Invite Link",
+        "german": "Hier ist der Einladungslink"
       },
       "NO_PERMISSION_SENDMESSAGE": {
-        "english": "No Permissions to send Messages"
+        "english": "No Permissions to send Messages",
+        "german": "Keine Berechtigungen zum Senden von Nachrichten"
       },
       "NO_PERMISSION_MANAGEMESSAGES": {
-        "english": "No Permissions to Manage Messages"
+        "english": "No Permissions to Manage Messages",
+        "german": "Keine Berechtigungen zum Verwalten von Nachrichten"
       },
       "ABORT": {
-        "english": "User not responded, Aborting."
+        "english": "User not responded, Aborting.",
+        "german": "Benutzer hat nicht geantwortet, Abbruch."
       },
       "LFG_PLATFORM": {
-        "english": "Please tell me the platform you play on."
+        "english": "Please tell me the platform you play on.",
+        "german": "Bitte sag mir die Plattform, auf der du spielst."
       },
       "LFG_MISSION": {
-        "english": "Please tell me the Mission/Activity you want to start."
+        "english": "Please tell me the Mission / Activity you want to start.",
+        "german": "Bitte teilen Sie mir die Mission / Aktivität mit, die Sie starten möchten."
       },
       "LFG_WARFRAME": {
-        "english": "Did you want certain Warframes in your team?"
+        "english": "Did you want certain Warframes in your team?",
+        "german": "Wollten Sie bestimmte Warframes in Ihrem Team?"
       },
       "LFG_ERROR": {
-        "english": "LFG Not Setup!"
+        "english": "LFG Not Setup!",
+        "german": "LFG nicht eingerichtet!"
       },
       "LFG_NAME": {
-        "english": "Looking for Group"
+        "english": "Looking for Group",
+        "german": "Suche nach Gruppe"
       },
       "LFG_NAME_PLATFORM": {
-        "english": "Platform:"
+        "english": "Platform:",
+        "german": "Platform:"
       },
       "LFG_NAME_MISSION": {
-        "english": "Mission:"
+        "english": "Mission:",
+        "german": "Mission:"
       },
       "LFG_NAME_WARFRAME": {
-        "english": "looking for Frame(s):"
+        "english": "looking for Frame(s):",
+        "german": "auf der Suche nach Frame(s):"
       },
       "LFG": {
-        "english": "is Looking for a Group."
+        "english": "is Looking for a Group.",
+        "german": "sucht eine Gruppe."
       },
       "MEME_MAX": {
-        "english": "Currently you can have ${allowedvotes} Memes at once."
+        "english": "Currently you can have ${allowedvotes} Memes at once.",
+        "german": "Derzeit können Sie ${allowedvotes} Memes gleichzeitig haben."
       },
       "MEME_MAX_ALLOWED": {
-        "english": "Currently you cant have more than ${allowedvotes} Memes at once. Vote for the Bot for Increasing it. You can vote with ${client.config.prefix}vote."
+        "english": "Currently you cant have more than ${allowedvotes} Memes at once. Vote for the Bot for Increasing it. You can vote with ${client.config.prefix}vote.",
+        "german": "Derzeit können Sie nicht mehr als ${allowedvotes} Memes gleichzeitig haben. Stimmen Sie für den Bot, um ihn zu erhöhen. Sie können mit ${client.config.prefix}vote."
       },
       "MEME_LIMIT": {
-        "english": "This server limited the maximum amount of memes to ${d.meme_max}."
+        "english": "This server limited the maximum amount of memes to ${d.meme_max}.",
+        "german": "Dieser Server hat die maximale Anzahl von Memes auf ${d.meme_max} begrenzt."
       },
       "MEME_ERROR": {
-        "english": "sorry but it seems like we're out of memes."
+        "english": "sorry but it seems like we're out of memes.",
+        "german": "Entschuldigung, aber es scheint, als hätten wir keine Meme mehr."
       },
       "PRICE_PLATFORM": {
-        "english": "Please use PC | PS4 | XB1 as platform. \nSwitch is currently not Supported by the API."
+        "english": "Please use PC | PS4 | XB1 as platform. \nSwitch is currently not Supported by the API.",
+        "german": "Bitte benutzen Sie PC | PS4 | XB1 als Plattform. \nSwitch wird derzeit von der API nicht unterstützt."
       },
       "PRICE_SELLING": {
-        "english": "Selling Orders:"
+        "english": "Selling Orders:",
+        "german": "Verkaufsaufträge:"
       },
       "PRICE_MIN": {
-        "english": "Min Price:"
+        "english": "Min Price:",
+        "german": "Mindestpreis:"
       },
       "PRICE_MAX": {
-        "english": "Max Price:"
+        "english": "Max Price:",
+        "german": "Maximaler Preis:"
       },
       "PRICE_MEDIAN": {
-        "english": "Median Price:"
+        "english": "Median Price:",
+        "german": "Medianpreis:"
       },
       "PRIVACY_TITLE": {
-        "english": "Privacy Policy"
+        "english": "Privacy Policy",
+        "german": "Datenschutz-Bestimmungen"
       },
       "PRIVACY_STORAGE_TITLE": {
-        "english": "Data Storage"
+        "english": "Data Storage",
+        "german": "Datenspeicher"
       },
       "PRIVACY_STORAGE": {
-        "english": "The Bot Stores the GuildID of every Guild the Bot is used. Additional the Bot stores the Userid for every user that voted at Top.gg and if the User is a Patreon on S8Software."
+        "english": "The Bot Stores the GuildID of every Guild the Bot is used. Additional the Bot stores the Userid for every user that voted at Top.gg and if the User is a Patreon on S8Software.",
+        "german": "Der Bot speichert die Gilden-ID jeder Gilde, die der Bot verwendet. Zusätzlich speichert der Bot die Benutzer-ID für jeden Benutzer, der bei Top.gg abgestimmt hat und wenn der Benutzer ein Patreon auf S8Software ist."
       },
       "PRIVACY_USAGE_TITLE": {
-        "english": "Data Usage"
+        "english": "Data Usage",
+        "german": "Daten Nutzung"
       },
       "PRIVACY_USAGE": {
-        "english": "The GuildID is needed for identifying the Configuration File for the given Guild.\nThe Userid is used for Identifying the Current Vote Count for the Bot -> Required for the Vote Reward\nThe Patreon Value is Deprecated and no longer in use."
+        "english": "The GuildID is needed for identifying the Configuration File for the given Guild.\nThe Userid is used for Identifying the Current Vote Count for the Bot -> Required for the Vote Reward\nThe Patreon Value is Deprecated and no longer in use.",
+        "german": "Die Gilden-ID wird zum Identifizieren der Konfigurationsdatei für die angegebene Gilde benötigt. \nDie Benutzer-ID wird zum Identifizieren der aktuellen Stimmenzahl für den Bot verwendet -> Erforderlich für die Wahlprämie \nDer Patreon-Wert ist veraltet und wird nicht mehr verwendet."
       },
       "PRIVACY_STORED_TITLE": {
-        "english": "Stored Data for"
+        "english": "Stored Data for",
+        "german": "Gespeicherte Daten für"
       },
       "PRIVACY_STORED": {
-        "english": "UserID ${userdata.userID}\nVotes: ${userdata.votes}\nPatreon Status: ${userdata.patreon}"
+        "english": "UserID ${userdata.userID}\nVotes: ${userdata.votes}\nPatreon Status: ${userdata.patreon}",
+        "german": "UserID ${userdata.userID} \nVotes: ${userdata.votes} \nPatreon Status: ${userdata.patreon}"
       },
       "PRIVACY_DM": {
-        "english": "I send you a DM with the Policy."
+        "english": "I send you a DM with the Policy.",
+        "german": "Ich sende Ihnen eine DM mit der Richtlinie."
       },
       "PRIVACY_NO_DATA": {
-        "english": "No Data Stored."
+        "english": "No Data Stored.",
+        "german": "Keine Daten gespeichert."
       },
       "RIVEN_USAGE": {
-        "english": "Command Usage [Platform] [Weapon]!"
+        "english": "Command Usage [Platform] [Weapon]!",
+        "german": "Befehlsnutzung [Plattform] [Waffe]!"
       },
       "RIVEN_NO_DATA": {
-        "english": "No Dataset Found."
+        "english": "No Dataset Found.",
+        "german": "Kein Datensatz gefunden."
       },
       "RIVEN_TYPE": {
-        "english": "Weapontype:"
+        "english": "Weapontype:",
+        "german": "Waffentyp:"
       },
       "RIVEN_ROLLED": {
-        "english": "Rolled Riven:"
+        "english": "Rolled Riven:",
+        "german": "Rolled Riven:"
       },
       "RIVEN_UNROLLED": {
-        "english": "Unrolled Riven:"
+        "english": "Unrolled Riven:",
+        "german": "Unrolled Riven:"
       },
       "RIVEN_AVERAGE": {
-        "english": "Average:"
+        "english": "Average:",
+        "german": "Durchschnittlich:"
       },
       "RIVEN_MIN": {
-        "english": "MIN:"
+        "english": "MIN:",
+        "german": "MIN:"
       },
       "RIVEN_MAX": {
-        "english": "MAX:"
+        "english": "MAX:",
+        "german": "MAX:"
       },
       "RIVEN_EMPTY": {
-        "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!"
+        "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!",
+        "german": "API antwortete mit einem leeren Ergebnis. Der Waffenname ist **Groß- und Kleinschreibung beachten** und muss **Großbuchstaben** sein !!"
       },
       "SENTIENT_UNAVIABLE": {
-        "english": "Unaviable"
+        "english": "Unaviable",
+        "german": "Nicht verfügbar"
       },
       "SENTIENT_TITLE": {
-        "english": "Sentient Outpost"
+        "english": "Sentient Outpost",
+        "german": "Sentient Vorposten"
       },
       "SENTIENT_START": {
-        "english": "Outpost Starts:"
+        "english": "Outpost Starts:",
+        "german": "Vorposten Startet:"
       },
       "SENTIENT_END": {
-        "english": "Outpost End:"
+        "english": "Outpost End:",
+        "german": "Vorposten Ende:"
       },
       "SENTIENT_NODE": {
-        "english": "Mission Node:"
+        "english": "Mission Node:",
+        "german": "Missions Node:"
       },
       "SENTIENT_FACTION": {
-        "english": "Faction:"
+        "english": "Faction:",
+        "german": "Fraktion:"
       },
       "SENTIENT_STATUS": {
-        "english": "Active:"
+        "english": "Active:",
+        "german": "Aktiv:"
       },
       "SENTIENT_DESCRIPTION": {
-        "english": "[BETA] Estimated cycle is 30 minutes of active time and 3 hours of inactive time."
+        "english": "[BETA] Estimated cycle is 30 minutes of active time and 3 hours of inactive time.",
+        "german": "[BETA] Der geschätzte Zyklus beträgt 30 Minuten aktive Zeit und 3 Stunden inaktive Zeit."
       },
       "SENTIENT_CHECK": {
-        "english": "Last time checked:"
+        "english": "Last time checked:",
+        "german": "Zuletzt überprüft:"
       },
       "STATS_TITLE": {
-        "english": "Riven Stat list"
+        "english": "Riven Stat list",
+        "german": "Riven Statistikliste"
       },
       "STATS_FOOTER": {
-        "english": "Command will only show the first 25 Results."
+        "english": "Command will only show the first 25 Results.",
+        "german": "Der Befehl zeigt nur die ersten 25 Ergebnisse an."
       },
       "STATS_DESCRIPTION": {
-        "english": "Here is a selection of Riven stats that are worth getting."
+        "english": "Here is a selection of Riven stats that are worth getting.",
+        "german": "Hier ist eine Auswahl von Riven-Statistiken, die es wert sind, erhalten zu werden."
       },
       "STATS_POSITIVES": {
-        "english": "Positives:"
+        "english": "Positives:",
+        "german": "Positives:"
       },
       "STATS_NEGATIVES": {
-        "english": "Negatives:"
+        "english": "Negatives:",
+        "german": "Negatives:"
       },
       "STATS_EMPTY": {
-        "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!"
+        "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!",
+        "german": "API antwortete mit einem leeren Ergebnis. Der Waffenname ist **Groß- und Kleinschreibung beachten** und muss **Großbuchstaben** sein !!"
       },
       "WHERE_PROCESSING": {
-        "english": "Processing search..."
+        "english": "Processing search...",
+        "german": "Suche verarbeiten..."
       },
       "WHERE_TOLONG": {
-        "english": "Querystring to long"
+        "english": "Querystring to long",
+        "german": "Suchbegriff zu lang"
       },
       "WHERE_ERROR": {
-        "english": "This is either due to the item being vaulted or an invalid search. Sorry."
+        "english": "This is either due to the item being vaulted or an invalid search. Sorry.",
+        "german": "Dies ist entweder weil das Item gevaulted ist oder auf eine ungültige Suche zurückzuführen. Es tut uns leid."
       },
       "WHERE_PLACE": {
-        "english": "Place:"
+        "english": "Place:",
+        "german": "Platz:"
       },
       "WHERE_RARITY": {
-        "english": "Rarity:"
+        "english": "Rarity:",
+        "german": "Seltenheit:"
       },
       "WHERE_DROP": {
-        "english": "Dropchance:"
+        "english": "Dropchance:",
+        "german": "Dropchance:"
       },
       "WHERE_PAGE": {
-        "english": "Page"
+        "english": "Page",
+        "german": "Seite"
       }
     }
 }
