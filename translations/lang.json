@@ -342,9 +342,9 @@
         "french": "Actuellement, vous pouvez avoir ${allowedvotes} memes à la fois"
       },
       "MEME_MAX_ALLOWED": {
-        "english": "Currently you can't have more than ${allowedvotes} Memes at once. Vote for the Bot to Increase it. You can vote with ${client.config.prefix}vote.",
-        "german": "Derzeit können Sie nicht mehr als ${allowedvotes} Memes gleichzeitig haben. Stimmen Sie für den Bot, um ihn zu erhöhen. Sie können mit ${client.config.prefix}vote.",
-        "french": "Actuellement, vous ne pouvez pas avoir plus de ${allowedvotes} memes à la fois. Votez pour le Bot pour augmenter. Vous pouvez votez avec ${client.config.prefix}vote."
+        "english": "Currently you can't have more than ${allowedvotes} Memes at once. Buy Premium to increase it. Premium can be obtained free by Voting for the Bot. You can vote with ${client.config.prefix}vote.",
+        "german": "Derzeit können Sie nicht mehr als ${allowedvotes} Memes gleichzeitig haben. Kaufe Premium um das zu erhöhen. Premium kann kostenlos erworben werden wenn sie für den Bot Voten. Sie können mit ${client.config.prefix}vote.",
+        "french": "Actuellement, vous ne pouvez pas avoir plus de ${allowedvotes} memes à la fois. Achetez Premium pour augmenter cela. Premium peut être acheté gratuitement si vous votez pour le bot. Vous pouvez votez avec ${client.config.prefix}vote."
       },
       "MEME_LIMIT": {
         "english": "This server limited the maximum amount of memes to ${d.meme_max}.",
@@ -580,6 +580,16 @@
         "english": "Page",
         "german": "Seite",
         "french": "Page"
+      },
+      "PREMIUM_EXIST":{
+        "english": "You already have Premium",
+        "german": "Du hast bereits Premium",
+        "french": "Vous avez déjà Premium"
+      },
+      "NOT_ENOUGH_COINS":{
+        "english": "You dont have enough Coins",
+        "german": "Du hast nicht genug Coins",
+        "french": "Vous n'avez pas assez de pièces"
       }
     }
 }
