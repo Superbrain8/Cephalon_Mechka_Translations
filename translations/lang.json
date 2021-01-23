@@ -1,713 +1,705 @@
 {
-    "languages": ["english","german","french", "bulgarian"],
+    "languages": ["english","german","french"],
     "translations": {
       "ERROR": {
-        "english": "an Error occurred, please try again.",
+        "english": "an Error occured, please try again.",
         "german": "ein fehler ist aufgetreten, bitte versuche es erneut.",
-        "french": "une erreur est survenue, veuillez réessayer.",
-        "bulgarian": "възникна грешка, моля, опитайте отново."
+        "french": "une erreur est survenue, veuillez réessayer."
       },
       "NO_RESULT": {
         "english": "No results for that query. Please refine your search.",
         "german": "Keine Ergebnisse für diese Abfrage. Bitte verfeinern Sie Ihre Suche.",
-        "french": "Aucun résultat pour cette requête. Veuillez reformuler votre recherche.",
-        "bulgarian": "Няма резултати за тази заявка. Моля, прецизирайте търсенето си."
+        "french": "Aucun résultat pour cette requête. Veuillez reformuler votre recherche."
       },
       "NO_PLATFORM": {
         "english": "You need to supply a Platform!",
         "german": "Bitte benutzte eine Platform.",
-        "french": "Vous devez citer une plateforme.",
-        "bulgarian": "Трябва да предоставите платформа!"
+        "french": "Vous devez citer une plateforme."
       },
       "PLATFORM": {
         "english": "Please use pc | swi | ps4 | xb1 as platform.",
         "german": "Bitte benutzte pc | swi | ps4 | xb1 als Platform.",
+<<<<<<< HEAD
         "french": "Veuillez utilisez pc | swi | ps4 | xb1 comme plateforme.",
         "bulgarian": "Моля, използвайте PC | swi | ps4 | xb1 като платформа."
+=======
+        "french": "Veuillez utilisez pc | swi | ps4 | xb1 comme plateforme."
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "ARBI_START": {
         "english": "Arbitrations Starts:",
         "german": "Arbitrations Startet:",
+<<<<<<< HEAD
         "french": "Debut de l'Arbitrage:",
         "bulgarian": "Стартира arbitration:"
+=======
+        "french": "Debut de l'Arbitrage:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "ARBI_ENDS": {
         "english": "Arbitrations Ends:",
         "german": "Arbitrations Ended:",
+<<<<<<< HEAD
         "french": "Fin de l'Arbitrage!",
         "bulgarian": "Приключва arbitration:"
+=======
+        "french": "Fin de l'Arbitrage!"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "ARBI_MODE": {
         "english": "Mode:",
         "german": "Modus:",
-        "french": "Mode:",
-        "bulgarian": "Режим:"
+        "french": "Mode:"
       },
       "ARBI_CHECK": {
         "english": "Last time checked:",
         "german": "Zuletzt überprüft:",
-        "french": "Dernière vérification:",
-        "bulgarian": "последно проверено:"
+        "french": "Dernière vérification:"
       },
       "BARO_START": {
         "english": "Trader Arrives:",
         "german": "Händler kommt an:",
-        "french": "Arrivée du Marchand:",
-        "bulgarian": "Търговецът пристига:"
+        "french": "Arrivée du Marchand:"
       },
       "BARO_ENDS": {
         "english": "Trader Leaves:",
         "german": "Händler verschwinded:",
-        "french": "Départ du Marchand:",
-        "bulgarian": "Листа на търговеца:"
+        "french": "Départ du Marchand:"
       },
       "BARO_LOCATION": {
         "english": "Trader Location:",
         "german": "Händler Position:",
-        "french": "Emplacement du Marchand:",
-        "bulgarian": "Местоположение на търговеца:"
+        "french": "Emplacement du Marchand:"
       },
       "BARO_TIME": {
         "english": "Time Left:",
         "german": "Übrige Zeit:",
-        "french": "Temps restant",
-        "bulgarian": "Оставащо време:"
+        "french": "Temps restant"
       },
       "BARO_CHECK": {
         "english": "Last time checked:",
         "german": "Zuletzt überprüft:",
+<<<<<<< HEAD
         "french": "Dernière vérification:",
         "bulgarian": "Време на последно проверяване:"
+=======
+        "french": "Dernière vérification:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "INFO_NAME": {
         "english": "Bot Name:",
         "german": "Bot Name:",
-        "french": "Nom du Bot:",
-        "bulgarian": "Име на бот:"
+        "french": "Nom du Bot:"
       },
       "INFO_CREATOR": {
         "english": "Bot Creator:",
         "german": "Bot Ersteller:",
-        "french": "Createur du Bot:",
-        "bulgarian": "Създател на ботове:"
+        "french": "Createur du Bot:"
       },
       "INFO_CREATION_DATE": {
         "english": "Created at:",
         "german": "Erstellt:",
-        "french": "Date créé:",
-        "bulgarian": "Създадено на:"
+        "french": "Date créé:"
       },
       "INFO_GUILDCOUNT": {
         "english": "Server Count:",
         "german": "Server Anzahl:",
-        "french": "Nombre de serveurs:",
-        "bulgarian": "Брой сървъри:"
+        "french": "Nombre de serveurs:"
       },
       "INFO_NODE_VERSION": {
         "english": "Node Version:",
         "german": "Node Version:",
+<<<<<<< HEAD
         "french": "Version de la mission:",
         "bulgarian": "Версия на NODE:"
+=======
+        "french": "Version de la mission:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "INFO_DJS_VERSION": {
         "english": "Discord.js Version:",
         "german": "Discord.js Version:",
-        "french": "Version de Discord.js:",
-        "bulgarian": "Версия на Discord.js:"
+        "french": "Version de Discord.js:"
       },
       "INFO_UPTIME": {
         "english": "Uptime:",
         "german": "Betriebszeit:",
-        "french": "Temps:",
-        "bulgarian": "Време за работа:"
+        "french": "Temps:"
       },
       "INFO_RAM": {
         "english": "Ram Usage:",
         "german": "Ram Nutzung:",
+<<<<<<< HEAD
         "french": "Utilisation de la RAM:",
         "bulgarian": "Употреба на RAM памет:"
+=======
+        "french": "Utilisation de la RAM:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "INFO_CPU": {
         "english": "CPU Usage:",
         "german": "CPU Nutzung:",
-        "french": "Utilisation du CPU:",
-        "bulgarian": "Използване на процесора:"
+        "french": "Utilisation du CPU:"
       },
       "DARVO_START": {
         "english": "Deals Starts:",
         "german": "Deals Startet:",
+<<<<<<< HEAD
         "french": "Début des remises:",
         "bulgarian": "Начало на офертите:"
+=======
+        "french": "Début des remises:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "DARVO_ENDS": {
         "english": "Deals End:",
         "german": "Deals Ended:",
-        "french": "Fin des remises:",
-        "bulgarian": "Край на офертите:"
+        "french": "Fin des remises:"
       },
       "DARVO_ITEM": {
         "english": "Item:",
         "german": "Item:",
+<<<<<<< HEAD
         "french": "Article:",
         "bulgarian": "артикул:"
+=======
+        "french": "Article:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "DARVO_ORIGINAL": {
         "english": "Original Price:",
         "german": "Original Preis:",
-        "french": "Prix d'origine:",
-        "bulgarian": "Оригинална цена:"
+        "french": "Prix d'origine:"
       },
       "DARVO_DISCOUNT": {
         "english": "Discount Price:",
         "german": "Reduzierter Preis:",
-        "french": "Prix bas:",
-        "bulgarian": "Намалена цена:"
+        "french": "Prix bas:"
       },
       "DARVO_AVIABLE": {
         "english": "Total Available:",
         "german": "Insgesamt verfügbar:",
-        "french": "Total disponible:",
-        "bulgarian": "Общо налични:"
+        "french": "Total disponible:"
       },
       "DARVO_SOLD": {
         "english": "Sold:",
         "german": "Verkauft:",
-        "french": "Vendu:",
-        "bulgarian": "Продадено:"
+        "french": "Vendu:"
       },
       "DARVO_DISCOUNT_PERCENTAGE": {
         "english": "DISCOUNT:",
         "german": "Rabatt:",
-        "french": "REMISE:",
-        "bulgarian": "ОТСТЪПКА:"
+        "french": "REMISE:"
       },
       "DARVO_CHECK": {
         "english": "Last time checked:",
         "german": "Zuletzt überprüft:",
-        "french": "Dernière vérification:",
-        "bulgarian": "Последно проверено време:"
+        "french": "Dernière vérification:"
       },
       "DISCORD": {
-        "english": "Here is the Invitation URL",
+        "english": "Here is the Invation URL",
         "german": "Hier ist die Einladungs-URL",
-        "french": "Voici l'URL d'invitation",
-        "bulgarian": "Ето URL адреса на поканата"
+        "french": "Voici l'URL d'invitation"
       },
       "WEAPON": {
         "english": "Please define a weapon",
         "german": "Bitte definieren Sie eine Waffe",
-        "french": "Veuillez définir une arme",
-        "bulgarian": "Моля, дефинирайте оръжие"
+        "french": "Veuillez définir une arme"
       },
       "DISPO": {
         "english": "Riven Disposition",
         "german": "Riven Disposition",
-        "french": "Disposition Riven",
-        "bulgarian": "Riven Disposition"
+        "french": "Disposition Riven"
       },
       "EHP_LEGACY": {
-        "english": "There was no Preset Found and no Legacy values given.",
-        "german": "Es wurde kein Preset gefunden und keine Legacy-Werte angegeben.",
-        "french": "Aucune disposition prédéfinie n'a été trouvée et aucune valeur par default n'a été donnée.",
-        "bulgarian": "ННяма намерена предварително зададена стойност и не са дадени наследени стойности."
+        "english": "There was no Preftab Found and no Legacy values given.",
+        "german": "Es wurde kein Preftab gefunden und keine Legacy-Werte angegeben.",
+        "french": "Aucune disposition prédéfinie n'a été trouvée et aucune valeur par default n'a été donnée."
       },
       "EHP_LEVEL": {
         "english": "Please define a level between 80 and 10000.",
         "german": "Bitte definieren Sie ein Level zwischen 80 und 10000.",
-        "french": "Veuillez définir un niveau entre 80 et 10000.",
-        "bulgarian": "Моля, определете ниво между 80 и 10000."
+        "french": "Veuillez définir un niveau entre 80 et 10000."
       },
       "EHP_HEALTH": {
         "english": "Please define health.",
         "german": "Bitte definieren Sie Gesundheit.",
-        "french": "Veuillez définir la vie.",
-        "bulgarian": "Моля, дефинирайте здравето."
+        "french": "Veuillez définir la vie."
       },
       "EHP_ARMOR": {
         "english": "Please define armor.",
         "german": "Bitte definieren Sie die Rüstung.",
-        "french": "Veuillez définir l'armure.",
-        "bulgarian": "Моля, дефинирайте бронята."
+        "french": "Veuillez définir l'armure."
       },
       "EHP_NAME": {
         "english": "EHP for:",
         "german": "EHP für:",
-        "french": "Vie Effective pour:",
-        "bulgarian": "Ефективен живот за:"
+        "french": "Vie Effective pour:"
       },
       "EHP_NAME_LEVEL": {
         "english": "Level:",
         "german": "Level:",
-        "french": "Niveau:",
-        "bulgarian": "Ниво:"
+        "french": "Niveau:"
       },
       "EHP_NAME_HEALTH": {
         "english": "Health:",
         "german": "Gesundheit:",
-        "french": "Vie:",
-        "bulgarian": "Здраве:"
+        "french": "Vie:"
       },
       "EHP_NAME_ARMOR": {
         "english": "Armor:",
         "german": "Rüstung:",
-        "french": "Armure:",
-        "bulgarian": "Броня:"
+        "french": "Armure:"
       },
       "EHP_NAME_SHIELDS": {
         "english": "Shields:",
         "german": "Schilde:",
-        "french": "Boucliers:",
-        "bulgarian": "Щитове:"
+        "french": "Boucliers:"
       },
       "EHP_NAME_EHP": {
         "english": "EHP:",
         "german": "EHP:",
-        "french": "Vie Effective:",
-        "bulgarian": "Ефективен живот:"
+        "french": "Vie Effective:"
       },
       "EHP_NAME_EHP_SHIELDS": {
         "english": "EHP with Shields:",
         "german": "EHP mit Schilden:",
-        "french": "Vie Effective avec boucliers",
-        "bulgarian": "Ефективен живот с щитове"
+        "french": "Vie Effective avec boucliers"
       },
       "GLYPH": {
         "english": "No Glyph Code Found for this Guild",
         "german": "Für diese Gilde wurde kein Glyphencode gefunden",
+<<<<<<< HEAD
         "french": "Aucun code glyph trouvé pour ce serveur",
         "bulgarian": "Не е намерен код на глиф за този сървър"
+=======
+        "french": "Aucun code glyph trouvé pour ce serveur"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "HELP_ADDITIONAL_TITLE": {
         "english": "Additional Informations",
         "german": "zusätzliche Information",
+<<<<<<< HEAD
         "french": "Informations supplémentaires",
         "bulgarian": "Допълнителна информация"
+=======
+        "french": "Informations supplémentaires"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "HELP_ADDITIONAL": {
         "english": "Running help [command] gives additional Informations for the Command Usage.",
         "german": "Wenn Sie help [Befehl] ausführen, erhalten Sie zusätzliche Informationen zur Befehlsverwendung.",
+<<<<<<< HEAD
         "french": "Exécuter l'aide [commande] donne des informations supplémentaires sur l'utilisation de la commande.",
         "bulgarian": "Използването на help [command] дава допълнителна информация за използването на командата."
+=======
+        "french": "Exécuter l'aide [commande] donne des informations supplémentaires sur l'utilisation de la commande."
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "HELP_COMMANDS_LIST": {
         "english": "Commands List",
         "german": "Befehlsliste",
-        "french": "Liste des commandes",
-        "bulgarian": "Списък с команди"
+        "french": "Liste des commandes"
       },
       "HELP_TOTAL": {
         "english": "Total Commands",
         "german": "Befehle insgesamt",
-        "french": "Commandes totales",
-        "bulgarian": "Общо команди"
+        "french": "Commandes totales"
       },
       "HELP_ERROR": {
         "english": "Cant find this command, sorry!",
         "german": "Ich kann diesen Befehl nicht finden, sorry!",
-        "french": "Commande non trouvée, désolé!",
-        "bulgarian": "Не мога да намеря тази команда, съжалявам!"
+        "french": "Commande non trouvée, désolé!"
       },
       "HELP_HELP": {
         "english": "Command help for",
         "german": "Befehlshilfe für",
-        "french": "Commande d'aide pour",
-        "bulgarian": "Командна помощ за"
+        "french": "Commande d'aide pour"
       },
       "HELP_USAGE": {
         "english": "Usage",
         "german": "Verwendung",
-        "french": "Utilisation",
-        "bulgarian": "Употреба"
+        "french": "Utilisation"
       },
       "INVITE_1": {
         "english": "I've sent you a DM with the link",
         "german": "Ich habe dir eine DM mit dem Link geschickt",
-        "french": "DM envoyé avec le lien",
-        "bulgarian": "Изпратих ви DM с връзката"
+        "french": "DM envoyé avec le lien"
       },
       "INVITE_2": {
         "english": "here is the Invite Link",
         "german": "Hier ist der Einladungslink",
-        "french": "Voici le lien d'invitation",
-        "bulgarian": "тук е връзката за покана"
+        "french": "Voici le lien d'invitation"
       },
       "NO_PERMISSION_SENDMESSAGE": {
         "english": "No Permissions to send Messages",
         "german": "Keine Berechtigungen zum Senden von Nachrichten",
-        "french": "Pas d'autorisation pour envoyer des messages",
-        "bulgarian": "Няма разрешения за изпращане на съобщения"
+        "french": "Pas d'autorisation pour envoyer des messages"
       },
       "NO_PERMISSION_MANAGEMESSAGES": {
         "english": "No Permissions to Manage Messages",
         "german": "Keine Berechtigungen zum Verwalten von Nachrichten",
-        "french": "Pas d'autorisation pour gérer les messages",
-        "bulgarian": "Няма разрешения за управление на съобщения"
+        "french": "Pas d'autorisation pour gérer les messages"
       },
       "ABORT": {
         "english": "User did not respond, Aborting.",
         "german": "Benutzer hat nicht geantwortet, Abbruch.",
-        "french": "L'utilisateur n'a pas répondu, annulation.",
-        "bulgarian": "Потребителят не отговори, Прекъсване."
+        "french": "L'utilisateur n'a pas répondu, annulation."
       },
       "LFG_PLATFORM": {
         "english": "Please tell me the platform you play on.",
         "german": "Bitte sag mir die Plattform, auf der du spielst.",
-        "french": "Veuillez citer sur quelle plateforme vous jouez.",
-        "bulgarian": "Моля, кажете ми платформата, на която играете."
+        "french": "Veuillez citer sur quelle plateforme vous jouez."
       },
       "LFG_MISSION": {
         "english": "Please tell me the Mission / Activity you want to start.",
         "german": "Bitte teilen Sie mir die Mission / Aktivität mit, die Sie starten möchten.",
-        "french": "Veuillez citer la mission/activitée que vous souhaitez démarrer.",
-        "bulgarian": "Моля, кажете мисията / дейността, която искате да започнете."
+        "french": "Veuillez citer la mission/activitée que vous souhaitez démarrer."
       },
       "LFG_WARFRAME": {
         "english": "Did you want certain Warframes in your team?",
         "german": "Wollten Sie bestimmte Warframes in Ihrem Team?",
+<<<<<<< HEAD
         "french": "Voulez-vous une certaine Warframe dans votre team?",
         "bulgarian": "Искахте ли определени Warframes във вашия екип?"
+=======
+        "french": "Voulez-vous une certaine Warframe dans votre team?"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "LFG_ERROR": {
         "english": "LFG Not Setup!",
         "german": "LFG nicht eingerichtet!",
+<<<<<<< HEAD
         "french": "La recherche de group n'est pas mise en place!",
         "bulgarian": "Търсенето на група не е настроено!"
+=======
+        "french": "La recherche de group n'est pas mise en place!"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "LFG_NAME": {
         "english": "Looking for Group",
         "german": "Suche nach Gruppe",
-        "french": "Recherche de group",
-        "bulgarian": "Търси се група"
+        "french": "Recherche de group"
       },
       "LFG_NAME_PLATFORM": {
         "english": "Platform:",
         "german": "Platform:",
-        "french": "Platforme",
-        "bulgarian": "Платформа:"
+        "french": "Platforme"
       },
       "LFG_NAME_MISSION": {
         "english": "Mission:",
         "german": "Mission:",
-        "french": "Mission:",
-        "bulgarian": "Мисия:"
+        "french": "Mission:"
       },
       "LFG_NAME_WARFRAME": {
         "english": "looking for Frame(s):",
         "german": "auf der Suche nach Frame(s):",
-        "french": "Recherche d'une ou plusieur Warframes:",
-        "bulgarian": "Търсете един или повече Warframes:"
+        "french": "Recherche d'une ou plusieur Warframes:"
       },
       "LFG": {
         "english": "is Looking for a Group.",
         "german": "sucht eine Gruppe.",
-        "french": "recherche un group.",
-        "bulgarian": "търси група."
+        "french": "recherche un group."
       },
       "MEME_MAX": {
         "english": "Currently you can have ${allowedvotes} Memes at once.",
         "german": "Derzeit können Sie ${allowedvotes} Memes gleichzeitig haben.",
-        "french": "Actuellement, vous pouvez avoir ${allowedvotes} memes à la fois",
-        "bulgarian": "В момента можете да имате ${allowedvotes} мемове наведнъж."
+        "french": "Actuellement, vous pouvez avoir ${allowedvotes} memes à la fois"
       },
       "MEME_MAX_ALLOWED": {
         "english": "Currently you can't have more than ${allowedvotes} Memes at once. Buy Premium to increase it. Premium can be obtained free by Voting for the Bot. You can vote with ${client.config.prefix}vote.",
         "german": "Derzeit können Sie nicht mehr als ${allowedvotes} Memes gleichzeitig haben. Kaufe Premium um das zu erhöhen. Premium kann kostenlos erworben werden wenn sie für den Bot Voten. Sie können mit ${client.config.prefix}vote.",
-        "french": "Actuellement, vous ne pouvez pas avoir plus de ${allowedvotes} memes à la fois. Achetez Premium pour augmenter cela. Premium peut être acheté gratuitement si vous votez pour le bot. Vous pouvez votez avec ${client.config.prefix}vote.",
-        "bulgarian": "Понастоящем не можете да имате повече от ${allowedvotes} мемове наведнъж. Купете Premium, за да го увеличите. Премията може да бъде получена безплатно чрез гласуване за бота. Можете да гласувате с глас ${client.config.prefix}."
+        "french": "Actuellement, vous ne pouvez pas avoir plus de ${allowedvotes} memes à la fois. Achetez Premium pour augmenter cela. Premium peut être acheté gratuitement si vous votez pour le bot. Vous pouvez votez avec ${client.config.prefix}vote."
       },
       "MEME_LIMIT": {
         "english": "This server limited the maximum amount of memes to ${d.meme_max}.",
         "german": "Dieser Server hat die maximale Anzahl von Memes auf ${d.meme_max} begrenzt.",
-        "french": "Ce serveur à limité le nombre maximales de memes à ${d.meme_max}.",
-        "bulgarian": "Този сървър ограничи максималното количество мемове до ${d.meme_max}."
+        "french": "Ce serveur à limité le nombre maximales de memes à ${d.meme_max}."
       },
       "MEME_ERROR": {
         "english": "sorry but it seems like we're out of memes.",
         "german": "Entschuldigung, aber es scheint, als hätten wir keine Meme mehr.",
-        "french": "Désolé, mais il semble que nous soyons à court de memes.",
-        "bulgarian": "съжалявам, но като че ли сме без мемове."
+        "french": "Désolé, mais il semble que nous soyons à court de memes."
       },
       "PRICE_PLATFORM": {
         "english": "Please use PC | PS4 | XB1 as platform. \nSwitch is currently not Supported by the API.",
         "german": "Bitte benutzen Sie PC | PS4 | XB1 als Plattform. \nSwitch wird derzeit von der API nicht unterstützt.",
+<<<<<<< HEAD
         "french": "Veuillez utilisez PC | PS4 | XB1 comme plateforme. \nSwitch n'est actuellement pas supporté par l'API.",
         "bulgarian": "Моля, използвайте PC | PS4 | XB1 като платформа. \nSwitch в момента не се поддържа от API."
+=======
+        "french": "Veuillez utilisez PC | PS4 | XB1 comme plateforme. \nSwitch n'est actuellement pas supporté par l'API."
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "PRICE_SELLING": {
         "english": "Selling Orders:",
         "german": "Verkaufsaufträge:",
-        "french": "Ordres des ventes:",
-        "bulgarian": "Поръчки за продажба:"
+        "french": "Ordres des ventes:"
       },
       "PRICE_MIN": {
         "english": "Min Price:",
         "german": "Mindestpreis:",
-        "french": "Prix minimum:",
-        "bulgarian": "Минимална цена:"
+        "french": "Prix minimum:"
       },
       "PRICE_MAX": {
         "english": "Max Price:",
         "german": "Maximaler Preis:",
+<<<<<<< HEAD
         "french": "Prix maximum:",
         "bulgarian": "Максимална цена"
+=======
+        "french": "Prix maximum:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "PRICE_MEDIAN": {
         "english": "Median Price:",
         "german": "Medianpreis:",
+<<<<<<< HEAD
         "french": "Prix médian:",
         "bulgarian": "Средна цена:"
+=======
+        "french": "Prix médian:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "PRIVACY_TITLE": {
         "english": "Privacy Policy",
         "german": "Datenschutz-Bestimmungen",
-        "french": "Politique de confidentialité",
-        "bulgarian": "политика за поверителност"
+        "french": "Politique de confidentialité"
       },
       "PRIVACY_STORAGE_TITLE": {
         "english": "Data Storage",
         "german": "Datenspeicher",
-        "french": "Stockage de données",
-        "bulgarian": "хранилище за данни"
+        "french": "Stockage de données"
       },
       "PRIVACY_STORAGE": {
         "english": "The Bot Stores the GuildID of every Guild the Bot is used. Additional the Bot stores the Userid for every user that voted at Top.gg and if the User is a Patreon on S8Software.",
         "german": "Der Bot speichert die Gilden-ID jeder Gilde, die der Bot verwendet. Zusätzlich speichert der Bot die Benutzer-ID für jeden Benutzer, der bei Top.gg abgestimmt hat und wenn der Benutzer ein Patreon auf S8Software ist.",
-        "french": "Le Bot enregistre l'ID de tout les serveurs l'utilisant. De plus, le Bot enregistre l'ID de toutes les personnes qui on votez à Top.gg et si l'utilisateur est un Patreon sur S8Software.",
-        "bulgarian": "Ботът съхранява идентификатора на гилдията на всяка гилдия, която се използва. Освен това ботът съхранява Userid за всеки потребител, който е гласувал в Top.gg и ако потребителят е Patreon на S8Software."
+        "french": "Le Bot enregistre l'ID de tout les serveurs l'utilisant. De plus, le Bot enregistre l'ID de toutes les personnes qui on votez à Top.gg et si l'utilisateur est un Patreon sur S8Software."
       },
       "PRIVACY_USAGE_TITLE": {
         "english": "Data Usage",
         "german": "Daten Nutzung",
-        "french": "Utilisation des données",
-        "bulgarian": "използване на данни"
+        "french": "Utilisation des données"
       },
       "PRIVACY_USAGE": {
         "english": "The GuildID is needed for identifying the Configuration File for the given Guild.\nThe Userid is used for Identifying the Current Vote Count for the Bot -> Required for the Vote Reward\nThe Patreon Value is Deprecated and no longer in use.",
         "german": "Die Gilden-ID wird zum Identifizieren der Konfigurationsdatei für die angegebene Gilde benötigt. \nDie Benutzer-ID wird zum Identifizieren der aktuellen Stimmenzahl für den Bot verwendet -> Erforderlich für die Wahlprämie \nDer Patreon-Wert ist veraltet und wird nicht mehr verwendet.",
-        "french": "L'ID du serveur est nécessaire pour identifier le fichier de configuration pour ce serveur. \nL'ID de l'utilisateur  est utilisé pour identifier le nombres de votes actuel pour le Bot -> Requis pour la récompense de vote\nLa valeur Patreon est obsolète et n'est plus utilisée.",
-        "bulgarian": "Идентификаторът на Guild е необходим за идентифициране на конфигурационния файл за дадената гилдия. \nИдентификационният номер на идентификатора се използва за идентифициране на текущия брой гласове за бота -> Необходим за наградата за гласуване \nСтойността на Patreon е оттеглена и вече не се използва."
+        "french": "L'ID du serveur est nécessaire pour identifier le fichier de configuration pour ce serveur. \nL'ID de l'utilisateur  est utilisé pour identifier le nombres de votes actuel pour le Bot -> Requis pour la récompense de vote\nLa valeur Patreon est obsolète et n'est plus utilisée."
       },
       "PRIVACY_STORED_TITLE": {
         "english": "Stored Data for",
         "german": "Gespeicherte Daten für",
-        "french": "Données stockées pour",
-        "bulgarian": "Съхранени данни за"
+        "french": "Données stockées pour"
       },
       "PRIVACY_STORED": {
         "english": "UserID ${userdata.userID}\nVotes: ${userdata.votes}\nPatreon Status: ${userdata.patreon}",
         "german": "UserID ${userdata.userID} \nVotes: ${userdata.votes} \nPatreon Status: ${userdata.patreon}",
-        "french": "UserID ${userdata.userID}\nVotes: ${userdata.votes}\nStatus du Patreon: ${userdata.patreon}",
-        "bulgarian": "UserID ${userdata.userID} \nГласове: ${userdata.votes} \nСъстояние на патриона: ${userdata.patreon}"
+        "french": "UserID ${userdata.userID}\nVotes: ${userdata.votes}\nStatus du Patreon: ${userdata.patreon}"
       },
       "PRIVACY_DM": {
         "english": "I've sent you a DM with the Policy.",
         "german": "Ich sende Ihnen eine DM mit der Richtlinie.",
+<<<<<<< HEAD
         "french": "Je vous ai envoyé un DM avec la politique.",
         "bulgarian": "Изпратих ви директно съобщение с правилата."
+=======
+        "french": "Je vous ai envoyé un DM avec la politique."
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "PRIVACY_NO_DATA": {
         "english": "No Data Stored.",
         "german": "Keine Daten gespeichert.",
-        "french": "Aucune données enregistrées.",
-        "bulgarian": "Няма съхранени данни."
+        "french": "Aucune données enregistrées."
       },
       "RIVEN_USAGE": {
         "english": "Command Usage [Platform] [Weapon]!",
         "german": "Befehlsnutzung [Plattform] [Waffe]!",
-        "french": "Utilisation de commande [Plateforme] [Armes]!",
-        "bulgarian": "Използване на команди [Платформа] [Оръжие]!"
+        "french": "Utilisation de commande [Plateforme] [Armes]!"
       },
       "RIVEN_NO_DATA": {
         "english": "No Dataset Found.",
         "german": "Kein Datensatz gefunden.",
-        "french": "Aucune données trouvées.",
-        "bulgarian": "Не е намерен набор от данни."
+        "french": "Aucune données trouvées."
       },
       "RIVEN_TYPE": {
-        "english": "Weapon type:",
+        "english": "Weapontype:",
         "german": "Waffentyp:",
-        "french": "Type d'armes:",
-        "bulgarian": "Тип оръжие:"
+        "french": "Type d'armes:"
       },
       "RIVEN_ROLLED": {
         "english": "Rolled Riven:",
         "german": "Rolled Riven:",
+<<<<<<< HEAD
         "french": "Riven Dévoilé:",
         "bulgarian": "Rolled ривен:"
+=======
+        "french": "Riven Dévoilé:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "RIVEN_UNROLLED": {
         "english": "Unrolled Riven:",
         "german": "Unrolled Riven:",
+<<<<<<< HEAD
         "french": "Riven Voilé:",
         "bulgarian": "Unrolled ривен:"
+=======
+        "french": "Riven Voilé:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "RIVEN_AVERAGE": {
         "english": "Average:",
         "german": "Durchschnittlich:",
-        "french": "Moyenne:",
-        "bulgarian": "Средно аритметично:"
+        "french": "Moyenne:"
       },
       "RIVEN_MIN": {
         "english": "MIN:",
         "german": "MIN:",
-        "french": "Minimum:",
-        "bulgarian": "Минимум:"
+        "french": "Minimum:"
       },
       "RIVEN_MAX": {
         "english": "MAX:",
         "german": "MAX:",
-        "french": "Maximum:",
-        "bulgarian": "Максимум:"
+        "french": "Maximum:"
       },
       "RIVEN_EMPTY": {
         "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!",
         "german": "API antwortete mit einem leeren Ergebnis. Der Waffenname ist **Groß- und Kleinschreibung beachten** und muss **Großbuchstaben** sein !!",
-        "french": "L'API à répondu avec un résultat nul. Le nom de l'arme est **sensible aux majuscules** et doit être **en majuscules**!!",
-        "bulgarian": "API отговори с празен резултат. Името на оръжието е **с чувствителност към главни букви** и трябва да бъде **с главни букви** !!"
+        "french": "L'API à répondu avec un résultat nul. Le nom de l'arme est **sensible aux majuscules** et doit être **en majuscules**!!"
       },
       "SENTIENT_UNAVIABLE": {
         "english": "Unavailable",
         "german": "Nicht verfügbar",
-        "french": "Indisponible",
-        "bulgarian": "недостъпно"
+        "french": "Indisponible"
       },
       "SENTIENT_TITLE": {
         "english": "Sentient Outpost",
         "german": "Sentient Vorposten",
-        "french": "Avant-poste Sentient",
-        "bulgarian": "Sentient Outpost"
+        "french": "Avant-poste Sentient"
       },
       "SENTIENT_START": {
         "english": "Outpost Starts:",
         "german": "Vorposten Startet:",
-        "french": "Début de l'avant-poste dans:",
-        "bulgarian": "Аутпост започва:"
+        "french": "Début de l'avant-poste dans:"
       },
       "SENTIENT_END": {
         "english": "Outpost End:",
         "german": "Vorposten Ende:",
+<<<<<<< HEAD
         "french": "Fin de l'avant-poste dans:",
         "bulgarian": "Край на Аутпост:"
+=======
+        "french": "Fin de l'avant-poste dans:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "SENTIENT_NODE": {
         "english": "Mission Node:",
         "german": "Missions Node:",
+<<<<<<< HEAD
         "french": "Mission:",
         "bulgarian": "Мисия:"
+=======
+        "french": "Mission:"
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "SENTIENT_FACTION": {
         "english": "Faction:",
         "german": "Fraktion:",
-        "french": "Faction:",
-        "bulgarian": "Фракция:"
+        "french": "Faction:"
       },
       "SENTIENT_STATUS": {
         "english": "Active:",
         "german": "Aktiv:",
-        "french": "Actif:",
-        "bulgarian": "Активен:"
+        "french": "Actif:"
       },
       "SENTIENT_DESCRIPTION": {
         "english": "[BETA] Estimated cycle is 30 minutes of active time and 3 hours of inactive time.",
         "german": "[BETA] Der geschätzte Zyklus beträgt 30 Minuten aktive Zeit und 3 Stunden inaktive Zeit.",
-        "french": "[BETA] Cycle estimé est de 30 minutes de temps actif et 3 heures de temps d'inactivité.",
-        "bulgarian": "[БЕТА] Очакваният цикъл е 30 минути активно време и 3 часа неактивно време."
+        "french": "[BETA] Cycle estimé est de 30 minutes de temps actif et 3 heures de temps d'inactivité."
       },
       "SENTIENT_CHECK": {
         "english": "Last time checked:",
         "german": "Zuletzt überprüft:",
-        "french": "Dernière vérification:",
-        "bulgarian": "Последно проверено време:"
+        "french": "Dernière vérification:"
       },
       "STATS_TITLE": {
         "english": "Riven Stat list",
         "german": "Riven Statistikliste",
-        "french": "Liste des statistiques Riven",
-        "bulgarian": "Списък на Riven Stat"
+        "french": "Liste des statistiques Riven"
       },
       "STATS_FOOTER": {
         "english": "Command will only show the first 25 Results.",
         "german": "Der Befehl zeigt nur die ersten 25 Ergebnisse an.",
-        "french": "Cette commande n'affichera que les 25 premiers résultats.",
-        "bulgarian": "Командата ще покаже само първите 25 резултата."
+        "french": "Cette commande n'affichera que les 25 premiers résultats."
       },
       "STATS_DESCRIPTION": {
         "english": "Here is a selection of Riven stats that are worth getting.",
         "german": "Hier ist eine Auswahl von Riven-Statistiken, die es wert sind, erhalten zu werden.",
-        "french": "Voici une sélection de statistiques Riven qui valent la peine d'être obtenues.",
-        "bulgarian": "Ето подбор от статистики на Riven, които си струва да получите."
+        "french": "Voici une sélection de statistiques Riven qui valent la peine d'être obtenues."
       },
       "STATS_POSITIVES": {
         "english": "Positives:",
         "german": "Positives:",
-        "french": "Positives:",
-        "bulgarian": "Положителни:"
+        "french": "Positives:"
       },
       "STATS_NEGATIVES": {
         "english": "Negatives:",
         "german": "Negatives:",
-        "french": "Negatives:",
-        "bulgarian": "Отрицателни:"
+        "french": "Negatives:"
       },
       "STATS_EMPTY": {
         "english": "API Responed with a Empty Result. The Weapon Name is **case Sensetive** and needs to be **Upper Case**!!",
         "german": "API antwortete mit einem leeren Ergebnis. Der Waffenname ist **Groß- und Kleinschreibung beachten** und muss **Großbuchstaben** sein !!",
-        "french": "L'API à répondu avec un résultat vide. Le nom de l'arme est **sensible aux majuscules** et doit être **en majuscules**!!",
-        "bulgarian": "API отговори с празен резултат. Името на оръжието е **с чувствителност към главни букви** и трябва да бъде **с главни букви** !!"
+        "french": "L'API à répondu avec un résultat vide. Le nom de l'arme est **sensible aux majuscules** et doit être **en majuscules**!!"
       },
       "WHERE_PROCESSING": {
         "english": "Processing search...",
         "german": "Suche verarbeiten...",
-        "french": "Traitement de la recherche...",
-        "bulgarian": "Търсенето се обработва..."
+        "french": "Traitement de la recherche..."
       },
       "WHERE_TOLONG": {
         "english": "Querystring to long",
         "german": "Suchbegriff zu lang",
-        "french": "La requête est trop longue",
-        "bulgarian": "Заявката е твърде дълга"
+        "french": "La requête est trop longue"
       },
       "WHERE_ERROR": {
         "english": "This is either due to the item being vaulted or an invalid search. Sorry.",
         "german": "Dies ist entweder weil das Item gevaulted ist oder auf eine ungültige Suche zurückzuführen. Es tut uns leid.",
+<<<<<<< HEAD
         "french": "Cela peut être dû à l'élément qui est vaulté, ou à une recherche non valide. Désolé.",
         "bulgarian": "Това се дължи или на обекта, който се намира в трезора, или на невалидно търсене. Съжалявам."
+=======
+        "french": "Cela peut être dû à l'élément qui est vaulté, ou à une recherche non valide. Désolé."
+>>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "WHERE_PLACE": {
         "english": "Place:",
         "german": "Platz:",
-        "french": "Place:",
-        "bulgarian": "Място:"
+        "french": "Place:"
       },
       "WHERE_RARITY": {
         "english": "Rarity:",
         "german": "Seltenheit:",
-        "french": "Rareté:",
-        "bulgarian": "Рядкост:"
+        "french": "Rareté:"
       },
       "WHERE_DROP": {
         "english": "Dropchance:",
         "german": "Dropchance:",
-        "french": "Chance de drop:",
-        "bulgarian": "Шанс за изпускане:"
+        "french": "Chance de drop:"
       },
       "WHERE_PAGE": {
         "english": "Page",
         "german": "Seite",
-        "french": "Page",
-        "bulgarian": "Страница"
+        "french": "Page"
       },
       "PREMIUM_EXIST":{
         "english": "You already have Premium",
         "german": "Du hast bereits Premium",
-        "french": "Vous avez déjà Premium",
-        "bulgarian": "Вече имате Premium"
+        "french": "Vous avez déjà Premium"
       },
       "NOT_ENOUGH_COINS":{
         "english": "You dont have enough Coins",
         "german": "Du hast nicht genug Coins",
-        "french": "Vous n'avez pas assez de pièces",
-        "bulgarian": "Нямате достатъчно монети"
+        "french": "Vous n'avez pas assez de pièces"
       }
     }
 }
