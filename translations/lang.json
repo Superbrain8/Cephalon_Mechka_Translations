@@ -19,32 +19,20 @@
       "PLATFORM": {
         "english": "Please use pc | swi | ps4 | xb1 as platform.",
         "german": "Bitte benutzte pc | swi | ps4 | xb1 als Platform.",
-<<<<<<< HEAD
         "french": "Veuillez utilisez pc | swi | ps4 | xb1 comme plateforme.",
         "bulgarian": "Моля, използвайте PC | swi | ps4 | xb1 като платформа."
-=======
-        "french": "Veuillez utilisez pc | swi | ps4 | xb1 comme plateforme."
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "ARBI_START": {
         "english": "Arbitrations Starts:",
         "german": "Arbitrations Startet:",
-<<<<<<< HEAD
         "french": "Debut de l'Arbitrage:",
         "bulgarian": "Стартира arbitration:"
-=======
-        "french": "Debut de l'Arbitrage:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "ARBI_ENDS": {
         "english": "Arbitrations Ends:",
         "german": "Arbitrations Ended:",
-<<<<<<< HEAD
         "french": "Fin de l'Arbitrage!",
         "bulgarian": "Приключва arbitration:"
-=======
-        "french": "Fin de l'Arbitrage!"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "ARBI_MODE": {
         "english": "Mode:",
@@ -79,12 +67,8 @@
       "BARO_CHECK": {
         "english": "Last time checked:",
         "german": "Zuletzt überprüft:",
-<<<<<<< HEAD
         "french": "Dernière vérification:",
         "bulgarian": "Време на последно проверяване:"
-=======
-        "french": "Dernière vérification:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "INFO_NAME": {
         "english": "Bot Name:",
@@ -109,12 +93,8 @@
       "INFO_NODE_VERSION": {
         "english": "Node Version:",
         "german": "Node Version:",
-<<<<<<< HEAD
         "french": "Version de la mission:",
         "bulgarian": "Версия на NODE:"
-=======
-        "french": "Version de la mission:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "INFO_DJS_VERSION": {
         "english": "Discord.js Version:",
@@ -129,12 +109,8 @@
       "INFO_RAM": {
         "english": "Ram Usage:",
         "german": "Ram Nutzung:",
-<<<<<<< HEAD
         "french": "Utilisation de la RAM:",
         "bulgarian": "Употреба на RAM памет:"
-=======
-        "french": "Utilisation de la RAM:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "INFO_CPU": {
         "english": "CPU Usage:",
@@ -144,12 +120,8 @@
       "DARVO_START": {
         "english": "Deals Starts:",
         "german": "Deals Startet:",
-<<<<<<< HEAD
         "french": "Début des remises:",
         "bulgarian": "Начало на офертите:"
-=======
-        "french": "Début des remises:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "DARVO_ENDS": {
         "english": "Deals End:",
@@ -159,12 +131,8 @@
       "DARVO_ITEM": {
         "english": "Item:",
         "german": "Item:",
-<<<<<<< HEAD
         "french": "Article:",
         "bulgarian": "артикул:"
-=======
-        "french": "Article:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "DARVO_ORIGINAL": {
         "english": "Original Price:",
@@ -269,32 +237,20 @@
       "GLYPH": {
         "english": "No Glyph Code Found for this Guild",
         "german": "Für diese Gilde wurde kein Glyphencode gefunden",
-<<<<<<< HEAD
         "french": "Aucun code glyph trouvé pour ce serveur",
         "bulgarian": "Не е намерен код на глиф за този сървър"
-=======
-        "french": "Aucun code glyph trouvé pour ce serveur"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "HELP_ADDITIONAL_TITLE": {
         "english": "Additional Informations",
         "german": "zusätzliche Information",
-<<<<<<< HEAD
         "french": "Informations supplémentaires",
         "bulgarian": "Допълнителна информация"
-=======
-        "french": "Informations supplémentaires"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "HELP_ADDITIONAL": {
         "english": "Running help [command] gives additional Informations for the Command Usage.",
         "german": "Wenn Sie help [Befehl] ausführen, erhalten Sie zusätzliche Informationen zur Befehlsverwendung.",
-<<<<<<< HEAD
         "french": "Exécuter l'aide [commande] donne des informations supplémentaires sur l'utilisation de la commande.",
         "bulgarian": "Използването на help [command] дава допълнителна информация за използването на командата."
-=======
-        "french": "Exécuter l'aide [commande] donne des informations supplémentaires sur l'utilisation de la commande."
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "HELP_COMMANDS_LIST": {
         "english": "Commands List",
@@ -359,22 +315,14 @@
       "LFG_WARFRAME": {
         "english": "Did you want certain Warframes in your team?",
         "german": "Wollten Sie bestimmte Warframes in Ihrem Team?",
-<<<<<<< HEAD
         "french": "Voulez-vous une certaine Warframe dans votre team?",
         "bulgarian": "Искахте ли определени Warframes във вашия екип?"
-=======
-        "french": "Voulez-vous une certaine Warframe dans votre team?"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "LFG_ERROR": {
         "english": "LFG Not Setup!",
         "german": "LFG nicht eingerichtet!",
-<<<<<<< HEAD
         "french": "La recherche de group n'est pas mise en place!",
         "bulgarian": "Търсенето на група не е настроено!"
-=======
-        "french": "La recherche de group n'est pas mise en place!"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "LFG_NAME": {
         "english": "Looking for Group",
@@ -424,12 +372,8 @@
       "PRICE_PLATFORM": {
         "english": "Please use PC | PS4 | XB1 as platform. \nSwitch is currently not Supported by the API.",
         "german": "Bitte benutzen Sie PC | PS4 | XB1 als Plattform. \nSwitch wird derzeit von der API nicht unterstützt.",
-<<<<<<< HEAD
         "french": "Veuillez utilisez PC | PS4 | XB1 comme plateforme. \nSwitch n'est actuellement pas supporté par l'API.",
         "bulgarian": "Моля, използвайте PC | PS4 | XB1 като платформа. \nSwitch в момента не се поддържа от API."
-=======
-        "french": "Veuillez utilisez PC | PS4 | XB1 comme plateforme. \nSwitch n'est actuellement pas supporté par l'API."
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "PRICE_SELLING": {
         "english": "Selling Orders:",
@@ -444,22 +388,14 @@
       "PRICE_MAX": {
         "english": "Max Price:",
         "german": "Maximaler Preis:",
-<<<<<<< HEAD
         "french": "Prix maximum:",
         "bulgarian": "Максимална цена"
-=======
-        "french": "Prix maximum:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "PRICE_MEDIAN": {
         "english": "Median Price:",
         "german": "Medianpreis:",
-<<<<<<< HEAD
         "french": "Prix médian:",
         "bulgarian": "Средна цена:"
-=======
-        "french": "Prix médian:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "PRIVACY_TITLE": {
         "english": "Privacy Policy",
@@ -499,12 +435,8 @@
       "PRIVACY_DM": {
         "english": "I've sent you a DM with the Policy.",
         "german": "Ich sende Ihnen eine DM mit der Richtlinie.",
-<<<<<<< HEAD
         "french": "Je vous ai envoyé un DM avec la politique.",
         "bulgarian": "Изпратих ви директно съобщение с правилата."
-=======
-        "french": "Je vous ai envoyé un DM avec la politique."
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "PRIVACY_NO_DATA": {
         "english": "No Data Stored.",
@@ -529,22 +461,14 @@
       "RIVEN_ROLLED": {
         "english": "Rolled Riven:",
         "german": "Rolled Riven:",
-<<<<<<< HEAD
         "french": "Riven Dévoilé:",
         "bulgarian": "Rolled ривен:"
-=======
-        "french": "Riven Dévoilé:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "RIVEN_UNROLLED": {
         "english": "Unrolled Riven:",
         "german": "Unrolled Riven:",
-<<<<<<< HEAD
         "french": "Riven Voilé:",
         "bulgarian": "Unrolled ривен:"
-=======
-        "french": "Riven Voilé:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "RIVEN_AVERAGE": {
         "english": "Average:",
@@ -584,22 +508,14 @@
       "SENTIENT_END": {
         "english": "Outpost End:",
         "german": "Vorposten Ende:",
-<<<<<<< HEAD
         "french": "Fin de l'avant-poste dans:",
         "bulgarian": "Край на Аутпост:"
-=======
-        "french": "Fin de l'avant-poste dans:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "SENTIENT_NODE": {
         "english": "Mission Node:",
         "german": "Missions Node:",
-<<<<<<< HEAD
         "french": "Mission:",
         "bulgarian": "Мисия:"
-=======
-        "french": "Mission:"
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "SENTIENT_FACTION": {
         "english": "Faction:",
@@ -664,12 +580,8 @@
       "WHERE_ERROR": {
         "english": "This is either due to the item being vaulted or an invalid search. Sorry.",
         "german": "Dies ist entweder weil das Item gevaulted ist oder auf eine ungültige Suche zurückzuführen. Es tut uns leid.",
-<<<<<<< HEAD
         "french": "Cela peut être dû à l'élément qui est vaulté, ou à une recherche non valide. Désolé.",
         "bulgarian": "Това се дължи или на обекта, който се намира в трезора, или на невалидно търсене. Съжалявам."
-=======
-        "french": "Cela peut être dû à l'élément qui est vaulté, ou à une recherche non valide. Désolé."
->>>>>>> parent of 8f99a83... added Bulgarian Translation
       },
       "WHERE_PLACE": {
         "english": "Place:",
